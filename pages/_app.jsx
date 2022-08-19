@@ -144,9 +144,9 @@ function MyApp({ Component, pageProps }) {
           <div className='flex md:flex-row flex-col py-3 text-center justify-center overflow-hidden md:justify-between px-20 '>
             <div className=' grid grid-cols-7'>
               <div className=' pt-2'>
-                {/* <a target='_blank' alt='main-website' href='https://gaminggeeks.online/'> */}
+               
                   <Image src={Logo} width={35} height={35} alt='website' className='m-3 pt-2' />
-                {/* </a> */}
+                
               </div>
               <div className=''>
 
